@@ -23,7 +23,7 @@
 // ADC channels
 #define ADC_VOLTAGE 0
 #define ADC_THROTTLE 1
-#define ADC_TEMP 2
+#define ADC_TEMP 
 
 #define LED_Pin GPIO_PIN_1
 #define LED_GPIO_Port GPIOD
