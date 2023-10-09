@@ -47,7 +47,7 @@
 #define GEAR_RATIO 11 //15 for original M365 motor
 
 // speed limits for invividual modes in kph
-#define SPEEDLIMIT_ECO 25
+#define SPEEDLIMIT_ECO 26
 #define SPEEDLIMIT_NORMAL 30
 #define SPEEDLIMIT_SPORT 50
 
